@@ -1,0 +1,71 @@
+Victorine - Exercícios do Capítulo 03
+
+
+1. d) ponto-e-vírgula.
+
+2. d) ponto-e-vírgula.
+
+3. d) ponto-e-vírgula
+
+4. c) chave de fechamento;
+
+5. c) chave de fechamento;
+
+6. d) ponto-e-vírgula;
+
+7. ponto-e-vírgula
+
+8. vírgula
+
+9. c) deve ser executado pelo menos uma vez;
+
+10. d) é executada uma vez antes de o laço ser inicado.
+
+11. Falso. Em a), o primeiro cout será de 0+0 com o resultado 0, pois a incrementação só ocorrerá posteriormente. Já em b), como j foi inicializado juntamente com i, o segundo for já testará a condição de j<10 e o incrementará, resultando no cout 1 (0+1).
+
+12. soma foi declarada dentro do corpo de um for, logo, o cout exterior a ele não a imprimirá, alegando que a varíavel não foi declarada dentro do escopo. 
+
+13. 36 18 9 4 2 1
+    //tab entre os números
+
+14. 
+a)
+    #include <iostream>
+    using namespace std;
+    int main()
+    {
+    	int i;
+	cout << "\n\nIIIIIII\n";
+	for(i=0;i<17;i++)
+	{
+		cout << "  III" << endl;
+	}
+	cout << "IIIIIII" << endl;
+	system("PAUSE");
+	return 0;
+	}
+
+b) 
+#include <iostream>
+using namespace std;
+int main()
+{
+    int i;
+	cout << "\n\nEEEEEEE\n";
+	for(i=0;i<4;i++)
+	{
+		if(i==2)
+		{	
+			cout << "EEEEEE" << endl;
+		}
+		cout << "EEE" << endl;
+	}
+	cout << "EEEEEEE" << endl;
+	system("PAUSE");
+	return 0;
+}
+
+c)o laço for. Porque já sabemos quantas vezes se repetirá.
+
+15. 
+

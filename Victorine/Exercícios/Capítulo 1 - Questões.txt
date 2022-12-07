@@ -1,0 +1,138 @@
+Victorine - Exercícios do Capítulo 01
+
+
+1. A função main está escrita incorretamente. O correto é tudo em minúsculo: main. Está faltando também, após o primeiro cout, aspas duplas que englobem a cadeia de caracteres que foram escritas, no caso: "Existem 56 semanas no ano".
+
+2. a)	Bom dia! Shirley.    //com tabulação no início
+
+   b) Você já tomou café?
+      			    //linha pulada
+  
+   c)                         //linha pulada
+      A solução não existe!  //linha pulada
+      Não insista.           //linha pulada
+ 
+   d) Duas	 linhas 	de 	saída 	ou 	uma?
+        //tabulação //tabulação //tabulação //tabulação //tabulação
+
+   e) //Não irá compilar pois há uma aspa dupla que não foi fechada.
+
+3.                             //linha pulada
+   	Primeiro programa     //com tabulação no início
+
+4.                             //linha pulada
+	"Primeiro programa"    //com tabulação no início
+
+5. endl normalmente é usada na última linha do programa e \n quando for pular uma linha. Mas o comando é similar.
+
+6. b)Verdadeiro
+
+7. a) Caractere
+   b) Decimal
+   c) 
+   d) Float
+   e) Hexadecimal
+   f) Octal
+   g) 
+   h) Caractere 
+   i) Caractere
+   j) 
+   k) Caractere
+   l) Decimal
+   m) Caractere
+   n) 
+   o)
+
+8. Espaço de memória reservado para armazenar determinado tipo de dado tendo um nome para referir ao seu conteúdo.
+
+9. b) O tamanho de memória em bytes que a varíavel ocupará.
+
+10. Deve ser declarada antes de ser inicializada, dentro da função main() ou outra.
+
+11. a)
+    b)
+    c)
+    d)
+    e)
+    f)
+    g)
+    h)
+    i)
+    j)
+    k)
+    l)
+    m)
+
+12. a) int a; b)float b; d)unsigned char d; f)long float f; 
+
+13. 4
+
+14. c)float.
+
+15. 
+
+16. a) int x=5;
+
+17. a) Bibliotecas.
+
+18. b) Auxiliar o programador na escrita do programa fonte.
+
+19. c) Uma instrução do pré-processador.
+
+20. 
+
+21. c) Substituir caracteres que não podem ser digitados no teclado.
+
+22. Aspas simples: representar um único caractere ASCII.
+    Aspas duplas: representar o endereço de memória do primero byte em que a cadeia de caracteres foi armazenada.
+
+23. Todas, exceto a letra b).
+
+24. #include <iostream>
+    using namespace std;
+    int main()
+    {
+	   system("cls");
+	   cout << "\n\n";
+	   cout << "\n\t\xC9\xCD\xCD\xBB";
+	   cout << "\n\t\xBA  \xBA";
+	   cout << "\n\t\xC8\xCD\xCD\xBC";
+	   cout <<"\n\n";
+	   cout << endl;
+	   system("PAUSE");
+	   return 0;
+   }
+
+25. #include <iostream>
+    using namespace std;
+    int main()
+    {
+         cout << "\num";
+         cout << "\n\tdois;
+         cout << "\n\t\ttrês;
+         system("PAUSE");
+         return 0;
+    }
+
+26. 
+a)  #include <iostream>
+    using namespace std;
+    int main()
+    {
+    	cout << "\nProgramação orientada a objetos." << "\t" << "Linguagem C plus plus." << endl;
+        system("PAUSE");
+        return 0;
+    }
+
+b)  #include <iostream>
+    using namespace std;
+    int main()
+    {
+    	cout << "\nProgramação orientada a objetos."
+        cout << "\tLinguagem C plus plus."
+        cout << endl;
+        system("PAUSE");
+        return 0;
+    }
+
+c)

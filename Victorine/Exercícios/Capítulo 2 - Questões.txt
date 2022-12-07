@@ -1,0 +1,59 @@
+Victorine - Exercícios do Capítulo 02
+
+1. a)+; c)%;
+
+2. a) geralmente avalia um valor numérico;
+
+3. a) x = 18;
+   b) y = 1;
+   c) i = 5/4; j = 5/4;
+   d) a = 10; b = 7/2;
+   e) c = 7/2;
+
+4. num++
+
+5. a) x++ + y
+
+6. a) a=6; b=2; c=3;
+   b) b=12; c=6; d=4;
+   c) d=2; a=1;
+   d) d=2; c=2; b=1; a=1;
+   e) a=13; b=12; c=10;
+
+7. b) comparar valores;
+
+8. a) a == 'A'
+   b) a > b
+   g) -a == b
+   j) a + b + c == -x * -y
+
+9. a) 0 (false)
+   b) 1 (true)
+   c) 0 (false)
+   d) //está errado
+   e) 0 (false)
+   f) //está errado
+   g) 0 (false)
+
+10. 1
+
+11. 22345
+
+12. a) 1 (true)
+    b) 0 (false)
+    c) 0 (false)
+    d) 0 (false)
+    e) 1 (true)
+    f) 1 (true)
+    g) 
+    h) 
+    i) 
+    j) 
+    k) 
+
+13. a)
+    b)
+    c)
+    d)
+
+14. 
